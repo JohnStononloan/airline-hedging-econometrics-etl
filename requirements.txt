@@ -1,0 +1,9 @@
+pandas
+numpy
+pdfplumber
+statsmodels
+matplotlib
+seaborn
+python-docx
+openpyxl
+xlrd
